@@ -1,4 +1,4 @@
-# This is a simple first order ambisonics to stereo decoder
+# A simple first order ambisonics to stereo decoder
 use ZOOM H3-VR or any soundfield microphone as input  
   
 ![image](https://github.com/LyReonn/ambisonics_decoder/blob/master/5-2_h3vr.jpg)  
